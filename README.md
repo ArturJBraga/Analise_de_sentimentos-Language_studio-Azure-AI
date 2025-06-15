@@ -1,0 +1,1 @@
+# Analise_de_sentimentos-Language_studio-Azure-AI
